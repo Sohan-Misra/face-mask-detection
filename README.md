@@ -1,5 +1,5 @@
 # Face Mask Detection
-In this project we create a CNN(COnvolutional Neural Network) model and transfer learning to detect if a person in an image is wearing a face mask.
+In this project we create a CNN(Convolutional Neural Network) model and transfer learning to detect if a person in an image is wearing a face mask.
 
 ## Goal:
 To better understand the working of Neural Networks and transfer learning.
